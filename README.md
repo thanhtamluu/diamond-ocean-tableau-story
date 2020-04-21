@@ -1,0 +1,2 @@
+# diamond-ocean-tableau-story
+Analyzing the diamond market with a focus on 25-35-year-old target group in Atlanta, Georgia. The tasks were to select and purchase the most appropriate diamonds in order to serve the right audience while meeting the investor's needs and requirements. Using Tableau, a story of how the diamond market has been developing is created and demonstrated for the investor to understand what factors affect the industry and how the customers behave. Finally, a dashboard is created to compare the company, Diamond Ocean, and the overall market.  
